@@ -16,7 +16,7 @@ As a dedicated Data Analyst, I excel in transforming data into valuable insights
 
 ## Projects 🚀
 Here's my portfolio website:
-- [Portfolio Website]( ): Showcase of my data analysis projects and professional experience.
+- [Portfolio Website](https://olabodeferanmi12.wixsite.com/feranmi-olabode): Showcase of my data analysis projects and professional experience.
 
 ## Let's Connect! 🤝
 Excited to connect with fellow data enthusiasts and organizations leveraging data-driven approaches! Let's collaborate or discuss internship opportunities to enhance my experience. Reach me via **[Email](mailto:olabodeferanmi12@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/feranmi-olabode-9834b3182/)**. Let's make data-driven decisions together!
